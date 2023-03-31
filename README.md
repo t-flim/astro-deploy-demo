@@ -118,8 +118,6 @@ jobs:
 
 Your site should now be published! When you push changes to your Astro project’s repository, the GitHub Action will automatically deploy them for you.
 
-<br />
-
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
